@@ -1,0 +1,227 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: #f8f1e7;
+}
+.header{
+    background-color: #f8f1e7;
+    height:56px;
+    width: 100%;
+    display: inline-block;
+    display: flex;
+    border-bottom: 1px solid;
+}
+.menu{
+    font-size: 23px;
+    margin-left: 23px;
+    margin-top: 10px;
+    color: #502314;
+}
+svg{   
+    width: 200px;
+    margin-left: 400px;
+}
+.header button{
+    margin-left: 340px;
+    background-color: #d62300;
+    border: #d62300;
+    padding: 10px 25px;
+    color: #fff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    font-weight: bold;
+    font-family: Flame-Regular;
+}
+.part2{
+    height: 400px;
+    justify-content: space-between;
+}
+.bkfont{
+      display: inline-block;
+      margin-left: 15px;
+      margin-bottom: 40px;
+}
+.bkfont h1{
+    Font: flame-bold;
+    font-size: 48pt;
+    color: #502314;
+    margin-bottom: 20px;
+    margin-left: 10px;
+
+}
+.bkfont button{
+    display: block;
+    padding: 15px 80px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+#pickup{
+    background-color: #d62300;
+    color: white;
+    border: none;
+
+}
+#delivery{
+    background-color: transparent;
+}
+.mainimg{
+    width: 650px;
+    display: inline-block;
+    margin-left: 70px;
+}
+img[alt="image"]{
+    height: 370px;
+    width: 100%;  
+    display: inline-block;
+} 
+.card
+{
+    background-color: #fff;
+    border: none;
+    width: 530px;
+    height: 450px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding-bottom: 20px;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+
+img{
+    width:100%;
+    border-radius:20px 20px 0px 0px 
+}
+h2{
+    margin-left: 18px;
+    color: #502314;
+    font-family: Flame-Regular;
+    
+}
+p{
+    
+    margin-left: 18px;
+    margin-right: 28px;
+    font-size: 12px;
+    margin-top: 12px;
+    color:#502314;
+    font-family: Flame-RegularSans;
+}
+button{
+    margin-top: 10px;
+    margin-left: 385px;
+    border-radius: 18px;
+    padding: 10px 15px;
+    color: #502314;
+    font-weight: bold;
+    font-family:Flame-Regular;
+    background-color: white;
+    border: 1px solid #502314;
+}
+a{
+    padding: 5px;
+    margin-left: 15px;
+    font-display: none;
+    font-family:Flame-Regular;
+    font-size: 13px;
+}
+a:link,a:active,a:visited{
+    color: #502314;
+}
+#card3,#card6{
+    margin-top: 25px;
+}
+#b2{
+    width: 150px;
+    margin-left: 325px;
+    padding: 10px 5px;
+
+}
+#b3{
+    width: 120px;
+    margin-left: 350px;
+    padding: 10px 5px;
+}
+#b4{
+    width: 100px;
+    margin-left: 375px;
+    padding: 10px 5px;
+}
+#b6{
+    width: 120px;
+    margin-left: 350px;
+    padding: 10px 5px;
+
+}
+
+.end
+{
+    margin-top: 150px;
+    height: 400px;
+    background-color: aquamarine;
+}
+.last
+{
+    position: relative;
+}
+.root{
+    height: 550px;
+    margin-top: 20px;
+    margin-left: 40px;
+    display: inline-block; 
+    position: relative; 
+
+}
+.root img{
+    display: inline-block;
+    height: 520px;
+    width: 450px;
+    
+}
+
+.textend{
+    width: 550px;
+    padding-top: 0%;
+    display: inline-block;
+    margin-left: 20px;
+    padding-left: 10px;
+    position: absolute;
+    top: 150px;
+}
+.links{
+    width: 150px;
+    margin-left: 0px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.para{
+    height: 30px;
+    width: 480px;
+    color: #502314;
+    
+   
+}
+.footer{
+    height: 40px;
+    background-color: #502314;
+}
+.footer p{
+    color: white;
+    padding-top: 1px;
+    margin-left: 240px;
+    font-size: 12px;
+    display: inline-block;
+}
+.footer a{
+    color: white;
+    font-size: 12px;
+}
